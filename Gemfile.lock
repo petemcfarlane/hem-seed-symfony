@@ -86,7 +86,7 @@ GEM
     highline (1.7.8)
     hitimes (1.2.2)
     ipaddress (0.8.0)
-    json (1.8.3)
+    json (2.5.1)
     knife-solo (0.4.1)
       chef (>= 10.12)
       erubis (~> 2.7.0)
